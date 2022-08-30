@@ -1,0 +1,10 @@
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\bin\Debug\Proyecto-Login-BdD.exe.config
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\bin\Debug\Proyecto-Login-BdD.exe
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\bin\Debug\Proyecto-Login-BdD.pdb
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto-Login-BdD.csprojAssemblyReference.cache
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto_Login_BdD.Form1.resources
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto_Login_BdD.Properties.Resources.resources
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto-Login-BdD.csproj.GenerateResource.cache
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto-Login-BdD.csproj.CoreCompileInputs.cache
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto-Login-BdD.exe
+C:\Users\47434298\Desktop\Proyecto\Proyecto-Login-BdD\Proyecto-Login-BdD\Proyecto-Login-BdD\obj\Debug\Proyecto-Login-BdD.pdb
